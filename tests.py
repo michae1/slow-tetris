@@ -2,7 +2,7 @@ import unittest
 from text_tetris import *
 
 class TestTetrisMethods(unittest.TestCase):
-    # Simplae tests for most important functions
+    # Simple tests for most important functions
 
     def test_mix_field_and_current_piece(self):
         temp_field = [[0,0,0,0],[0,0,0,0],[0,0,0,0],[0,0,0,0]]
