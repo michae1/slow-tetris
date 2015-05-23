@@ -1,5 +1,5 @@
 # slow_tetris
-Tetris with the interactivity of the ES EVM/IMB 370 machines
+Tetris with the interactivity of the ES EVM/IBM 370 machines
 
 Just run in terminal, press a/w/s/d key and play.
 
